@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="test_8h" kind="file" language="C++">
+    <compoundname>test.h</compoundname>
+    <innernamespace refid="namespaceXXX">XXX</innernamespace>
+    <innernamespace refid="namespaceXXX_1_1A">XXX::A</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1" refid="namespaceXXX" refkind="compound"><highlight class="keyword">namespace<sp/></highlight><highlight class="normal"><ref refid="namespaceXXX" kindref="compound">XXX</ref><sp/>{</highlight></codeline>
+<codeline lineno="2" refid="namespaceXXX_1_1A" refkind="compound"><highlight class="normal"></highlight><highlight class="keyword">namespace<sp/></highlight><highlight class="normal">A<sp/>{</highlight></codeline>
+<codeline lineno="3" refid="namespaceXXX_1_1A_1a32d22a8f1048f5e5ccef5361819c7720a8dbf6fd03ad59851ee165c1a361e0486" refkind="member"><highlight class="normal"></highlight><highlight class="keyword">enum</highlight><highlight class="normal"><sp/><ref refid="namespaceXXX_1_1A_1a32d22a8f1048f5e5ccef5361819c7720" kindref="member">capabilities_t</ref><sp/>{<sp/><ref refid="namespaceXXX_1_1A_1a32d22a8f1048f5e5ccef5361819c7720a8dbf6fd03ad59851ee165c1a361e0486" kindref="member">cap1</ref><sp/>=<sp/>0,<sp/><ref refid="namespaceXXX_1_1A_1a32d22a8f1048f5e5ccef5361819c7720a94b33b870b49f1506ac70aa3ce6c1025" kindref="member">cap2</ref><sp/>=<sp/>1<sp/>};</highlight></codeline>
+<codeline lineno="4"><highlight class="normal">}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>A</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal">}<sp/></highlight><highlight class="comment">//<sp/>namespace<sp/>XXX</highlight><highlight class="normal"></highlight></codeline>
+    </programlisting>
+    <location file="test.h"/>
+  </compounddef>
+</doxygen>

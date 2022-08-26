@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="namespaceXXX_1_1A" kind="namespace" language="C++">
+    <compoundname>XXX::A</compoundname>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespaceXXX_1_1A_1a32d22a8f1048f5e5ccef5361819c7720" prot="public" static="no" strong="no">
+        <type></type>
+        <name>capabilities_t</name>
+        <enumvalue id="namespaceXXX_1_1A_1a32d22a8f1048f5e5ccef5361819c7720a8dbf6fd03ad59851ee165c1a361e0486" prot="public">
+          <name>cap1</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespaceXXX_1_1A_1a32d22a8f1048f5e5ccef5361819c7720a94b33b870b49f1506ac70aa3ce6c1025" prot="public">
+          <name>cap2</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="test.h" line="3" column="1" bodyfile="test.h" bodystart="3" bodyend="3"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="test.h" line="2" column="1"/>
+  </compounddef>
+</doxygen>
